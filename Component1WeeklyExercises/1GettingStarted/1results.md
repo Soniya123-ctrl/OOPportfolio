@@ -88,5 +88,42 @@ public class Diamondshape {
 
 5 -\
 (3 marks)
+-
+(3 marks)
 
+a. Latest Java SDK Version
+
+The latest version of Java is Java 25 (jdk25).
+
+b. Difference Between Java SE and Java ME
+
+Java SE
+
+Used for desktop and general applications.
+
+Java ME
+
+Designed for small devices like IoT devices and older mobile phones.
+
+c. Which Operating Systems is Java Available For?
+
+Java is available for:
+
+Windows
+
+macOS
+
+Linux
+
+d. Other Java IDEs besides Eclipse & IntelliJ
+
+VS Code
+
+JDeveloper
+
+e. What is the main() function for?
+
+The main() is the entry point of a Java program.
+
+When we have to run a Java program, the program starts execution from main().
 
