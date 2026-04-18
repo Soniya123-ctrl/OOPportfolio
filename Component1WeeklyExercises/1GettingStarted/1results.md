@@ -27,6 +27,9 @@ public class Helloworld {
 
 }
 
+<img width="355" height="158" alt="Screenshot 2026-04-18 at 20 45 45" src="https://github.com/user-attachments/assets/4fdff241-f69c-4998-84f9-080c6115073f" />
+
+
 
 2 -\
 (2 marks)
@@ -42,7 +45,9 @@ public class Test
 	      System.out.println ("An Emergency Broadcast");
    }
 }
----
+
+<img width="339" height="154" alt="Screenshot 2026-04-18 at 20 46 09" src="https://github.com/user-attachments/assets/ecba8647-ce07-421f-b094-bc0065131858" />
+
 
 
 3 -\
@@ -63,12 +68,15 @@ public class Personaldetails {
 	}
 
 }
----
+
+<img width="376" height="236" alt="Screenshot 2026-04-18 at 20 46 24" src="https://github.com/user-attachments/assets/6fd58890-d407-48b9-b0f7-9f474b64c1b2" />
+
+
 
 4 -\
 (2 marks)
 
----package weekone;
+package weekone;
 
 public class Diamondshape {
 
@@ -84,6 +92,9 @@ public class Diamondshape {
 	}
 
 }
+
+<img width="334" height="246" alt="Screenshot 2026-04-18 at 20 46 36" src="https://github.com/user-attachments/assets/9be7866f-ccf7-431d-ab2d-5cdd4dfa351f" />
+
 
 
 5 -\
