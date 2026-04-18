@@ -65,6 +65,10 @@ public class TableOfStudentGrades {
 }
 
 
+<img width="430" height="257" alt="table" src="https://github.com/user-attachments/assets/f150b57e-a972-4cfe-8361-3d96e881b35e" />
+
+
+
 2 -  
 (2 marks)
 package weektwo;
@@ -98,10 +102,12 @@ public class Average {
 	}
 
 }
+<img width="432" height="184" alt="miles" src="https://github.com/user-attachments/assets/5e9731ad-b81e-4346-bfdc-89c61805774e" />
 
----
 
-3 -  
+
+
+
 (2 marks)
 
 --package weektwo;
@@ -127,7 +133,10 @@ public class MilestoKilometeres {
 	}
 
 }
--
+<img width="432" height="184" alt="miles" src="https://github.com/user-attachments/assets/58c9452c-9eef-4d2f-8cfd-1bad4bb5c728" />
+
+
+
 
 4 -  
 (2 marks)
@@ -165,7 +174,10 @@ public class SquareCalculation {
 	}
 
 }
--
+<img width="388" height="194" alt="square" src="https://github.com/user-attachments/assets/24fa030a-1ea0-4c48-bacf-cc1b9a8946ce" />
+
+
+
 
 5 -  
 (3 marks)
@@ -204,5 +216,7 @@ public class Fractions {
 	}
 
 }
+<img width="398" height="225" alt="fraction" src="https://github.com/user-attachments/assets/5344ca32-71f8-46e4-bdd5-c427c5ebb39b" />
+
 
 
