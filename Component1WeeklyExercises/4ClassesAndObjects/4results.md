@@ -107,7 +107,7 @@ public class Dice {
 
 
 
-<img width="461" height="151" alt="pinencryption" src="https://github.com/user-attachments/assets/6733017d-842f-433e-9b2c-7107043c879a" />
+<img width="561" height="211" alt="dice" src="https://github.com/user-attachments/assets/03de8d58-1007-4008-9196-6387204b8e17" />
 
 
 
@@ -144,7 +144,8 @@ public class PinEncryption {
         System.out.println("Your encrypted pin number is " + encrypted + ".");
     }
 }
-<img width="454" height="159" alt="spherecal" src="https://github.com/user-attachments/assets/0e70e237-67f4-43fc-bb59-99233f58d301" />
+<img width="461" height="151" alt="pinencryption" src="https://github.com/user-attachments/assets/230705d3-356f-4e5b-ad89-fba0db9f0a1d" />
+
 
 
 
@@ -174,6 +175,6 @@ public class SphereCalculations {
     }
 }
 
-<img width="454" height="159" alt="spherecal" src="https://github.com/user-attachments/assets/b9228007-6539-4f0b-9f39-1eb04ea0b6dd" />
+<img width="454" height="159" alt="spherecal" src="https://github.com/user-attachments/assets/cc9f7d14-11e0-4109-9e13-87dbb968e88d" />
 
 
