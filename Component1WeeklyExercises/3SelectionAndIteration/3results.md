@@ -74,9 +74,14 @@ public class salary {
 
 
 	}
+	
+<img width="521" height="200" alt="salary" src="https://github.com/user-attachments/assets/dd1802c8-0629-4d4f-a86a-831824e63e60" />
 
 
 
+
+
+	
 2 -  
 (3 marks)
 
@@ -146,6 +151,10 @@ public class Rock {
 
 	}
 
+	
+<img width="384" height="177" alt="rock" src="https://github.com/user-attachments/assets/08c63497-f269-469b-bb1e-6328481c2513" />
+
+
 
 
 3 -  
@@ -190,8 +199,12 @@ public class Reverse {
 
 	}
 
+	
+<img width="464" height="149" alt="reverse" src="https://github.com/user-attachments/assets/87c0781f-0f5f-4059-90a8-90b9e1dd84f7" />
 
---
+
+
+
 
 4 -  
 (3 marks)
@@ -233,7 +246,8 @@ public class Reverse {
 	}
 
 
---
+<img width="443" height="175" alt="punctuation" src="https://github.com/user-attachments/assets/f72d3060-2b3a-4962-a94a-f79633efeb1b" />
+
 
 
 
