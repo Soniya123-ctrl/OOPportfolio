@@ -1,8 +1,8 @@
 
 # OOP Portfolio
-## Your Name
-### Your Group
-### Your Tutor
+## Your Name  Soniya Upreti
+### Your Group Fsd Duncan
+### Your Tutor Reshan Bahadur Pun
 
 
 Results for each exercise must be documented in results.md is the relevant directory,
