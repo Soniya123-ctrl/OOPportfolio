@@ -1,13 +1,17 @@
 
 # OOP Portfolio
-## Your Name  Soniya Upreti
-### Your Group Fsd Duncan
-### Your Tutor Reshan Bahadur Pun
+ Soniya Upreti
+ Fsc Duncan
+ Resham Pun
 
 
 Results for each exercise must be documented in results.md is the relevant directory,
 
 ## Component 1 Weekly Exercises 40%
+Component1WeeklyExercises/1GettingStarted
+
+
+
 
 ## Component 2 Programming Project 60%
 
